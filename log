@@ -1,0 +1,16 @@
+20:15:16.286	Initializing build environment. This may take up to a few minutes to complete
+20:15:18.641	Success: Finished initializing build environment
+20:15:18.641	Cloning repository...
+20:15:20.166	Success: Finished cloning repository files
+20:15:20.330	No build command specified. Skipping build step.
+20:15:20.331	Note: No functions dir at /functions found. Skipping.
+20:15:20.331	Validating asset output directory
+20:15:20.799	Deploying your site to Cloudflare's global network...
+20:15:26.586	Success: Your site was deployed!
+--------------------------------------------------------
+
+
+20:27:05.425	Initializing build environment. This may take up to a few minutes to complete
+20:27:07.613	Success: Finished initializing build environment
+20:27:07.613	Cloning repository...
+20:27:09.256	Success: Finished cloning repository files
